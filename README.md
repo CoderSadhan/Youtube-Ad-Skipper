@@ -9,14 +9,8 @@
 
 <h2>About the Project</h2>
 
-<p>
-The <strong>YouTube Ad Accelerator and Skipper</strong> is your guardian against YouTube ads. It accelerates playback and skips ads, ensuring smooth and uninterrupted video viewing.
-</p>
-
 <ul>
   <li><b>Automatic Ad Detection:</b> No more sudden interruptions.</li>
-  <li><b>Real-time Acceleration</b></li>
-  <li><b>Auto-Skip:</b> Bypass ads as soon as they become skippable.</li>
 </ul>
 
 <h2>Installation</h2>
